@@ -7,3 +7,5 @@ JSON.stringify(obj1) === JSON.stringify(obj2); // false
 
 // Using Lodash
 //_.isEqual(obj1, obj2);
+
+by using loadash we can compare the to objects or rather then using a JSON
